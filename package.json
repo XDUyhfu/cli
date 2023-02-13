@@ -1,0 +1,21 @@
+{
+  "name": "@yhfu/cli",
+  "version": "1.0.1",
+  "description": "",
+  "private": false,
+  "main": "index.js",
+  "bin": {
+    "yhfu": "index.js"
+  },
+  "scripts": {
+    "": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
